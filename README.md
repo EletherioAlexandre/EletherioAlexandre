@@ -1,4 +1,4 @@
-### Opa! Sou o Alexandre Eletherio
+### Opa! Tudo certo? Sou o Alexandre Eletherio
 
 - 🔭 Atualmente atuando com desenvolvimento frontend
 - 🌱 Estudando ReactJS e Typescript
