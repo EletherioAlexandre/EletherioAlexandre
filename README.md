@@ -1,7 +1,9 @@
-### Opa! Tudo bem? Sou o Alexandre Eletherio
+### Desenvolvedor Junior apaixonado por cavalos, cachorros e tecnologia. 🤖
 
 - 🔭 Atualmente atuando com desenvolvimento frontend
 - 🌱 Estudando ReactJS e Typescript
+- 🤿 Mergulho e Paintball como hobby
+- 👨‍💻 No dia-a-dia, nas horas livres, eu costumo... codar?! 😅
 
 <div>
   <a href="https://github.com/EletherioAlexandre">
