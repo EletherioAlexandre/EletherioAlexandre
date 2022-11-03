@@ -1,9 +1,10 @@
 ### Desenvolvedor Junior apaixonado por cavalos, cachorros e tecnologia. 🤖
 
-- 🔭 Atualmente atuando com desenvolvimento frontend
-- 🌱 Estudando ReactJS e Typescript
-- 🤿 Mergulho e Paintball como hobby
-- 👨‍💻 No dia-a-dia, nas horas livres, eu costumo... codar?! 😅
+- 🔭 Atualmente trabalhando com desenvolvimento frontend
+- 🌱 Desenvolvedor ReactJs e TypeScript
+- 📝 Estudante e desenvolvedor Python
+- 🤿 Pratico jiu-jitsu e sou entusiasta de mergulho
+- 👨‍💻 No dia-a-dia, nas horas livres, eu costumo codar e assistir filmes. 😅
 
 <div>
   <a href="https://github.com/EletherioAlexandre">
