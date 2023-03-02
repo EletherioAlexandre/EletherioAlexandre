@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalhando com desenvolvimento frontend
 - 🌱 Desenvolvedor ReactJs e TypeScript
-- 📝 Estudante e desenvolvedor Python
+- 📝 Estudante e desenvolvedor .NET
 - 🤿 Pratico jiu-jitsu e sou entusiasta de mergulho
 - 👨‍💻 No dia-a-dia, nas horas livres, eu costumo codar e assistir filmes. 😅
 
