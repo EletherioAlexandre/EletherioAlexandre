@@ -2,7 +2,7 @@
 
 - 🔭 At the moment working as entry-level frontend developer
 - 🌱 ReactJS and Typescript developer
-- 📝 Studying for the last semester of university and on the road to becoming a .NET developer
+- 📝 Studying the second degree in Software Engineering
 - 🤿 I am a Brazilian jiu-jitsu player, and I love to make dives on the beach.
 - 👨‍💻 My mother language is portuguese, but I also speak english (B2 🇺🇸 - independent speaker) and french (A1 🇫🇷 - débutant). 
 
