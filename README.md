@@ -17,7 +17,8 @@
    <img align="center" alt="EletherioCSS" height="45" width="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">
    <img align="center" alt="EletherioJS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png">
    <img align="center" alt="EletherioReact" height="45" width="45" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png">
-   <img align="center" alt="EletherioDotnet" height="45" width="45" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/dotnet_vertical_logo_icon_171217.png">
+   <img align="center" alt="EletherioJava" height="45" width="45" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000">
+   <img align="center" alt="EletherioIntelliJ" height="45" width="45" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000">
  </div>
 <hr />
  <div align="right">
